@@ -116,6 +116,7 @@ section { /* MIGHT REMOVE */
     padding: 20px;
     text-align: center;
     position: relative;
+    min-height: 100vh;
 }
 
 header {
@@ -241,6 +242,11 @@ main {
     object-fit: cover; /* Maintain aspect ratio without stretching */
     margin-bottom: 10px;
 }
+
+
+
+
+
 
 
 
